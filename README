@@ -1,0 +1,14 @@
+// Knock Lock
+
+In this project, you will be working on your own secret locking mechanism to keep unwanted
+guests out of your space!!!
+
+The secret knocker uses a piezo element to record and etect your secret knock patturn, then
+turns a servo motor that you can connect to your door lock.
+
+Here, a switch will let you loc the motor in place
+
+some LEDs will give your status: a red LED will indicate the door is locked, a green LED will
+indicate the door is unlocked, and a yellow LED lets your know if a valid knock has been received/
+
+//
